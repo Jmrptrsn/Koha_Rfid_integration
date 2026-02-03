@@ -38,8 +38,8 @@ def play_alarm():
 # ----------------------------
 TAG_MAPPING_FILE = "/home/admin/rfid_tag_tools/tag_mapping.json"
 KOHA_API_BASE = "http://192.168.0.149:8080/api/v1"
-USERNAME = "Administrator"
-PASSWORD = "Zxcqwe123$"
+USERNAME = ""
+PASSWORD = ""
 SERIAL_PORT = "/dev/ttyUSB2_RS232Device"
 BAUDRATE = 57600
 SCAN_COOLDOWN = 5

@@ -10,9 +10,9 @@
 # # Config
 # # ----------------------------
 # TAG_MAPPING_FILE = "/home/admin/rfid_tag_tools/tag_mapping.json"
-# KOHA_API_BASE = "http://192.168.0.149:8080/api/v1"
-# USERNAME = "Administrator"
-# PASSWORD = "Zxcqwe123$"
+# KOHA_API_BASE = "Your Api"
+# USERNAME = ""
+# PASSWORD = ""
 # SERIAL_PORT = "/dev/ttyUSB0"  # ACM815A default
 # BAUDRATE = 115200
 # SHORT_TAG_LENGTH = 8  # number of characters for short tag
@@ -170,9 +170,9 @@ import re
 # Config
 # ----------------------------
 TAG_MAPPING_FILE = "/home/admin/rfid_tag_tools/tag_mapping.json"
-KOHA_API_BASE = "http://192.168.0.149:8080/api/v1"
-USERNAME = "Administrator"
-PASSWORD = "Zxcqwe123$"
+KOHA_API_BASE = "You API"
+USERNAME = ""
+PASSWORD = ""
 SERIAL_PORT = "/dev/ttyUSB2_RS232Device"  # Wiegand reader
 BAUDRATE = 57600
 TIMEOUT = 10 

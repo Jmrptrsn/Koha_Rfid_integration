@@ -5,8 +5,8 @@ import base64
 # Koha configuration
 # =============================
 KOHA_API_BASE = "http://192.168.0.149:8080/api/v1"
-USERNAME = "Administrator"
-PASSWORD = "Zxcqwe123$"
+USERNAME = ""
+PASSWORD = ""
 TIMEOUT = 10
 
 # =============================

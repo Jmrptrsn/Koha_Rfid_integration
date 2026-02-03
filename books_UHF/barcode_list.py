@@ -3,8 +3,8 @@ from requests.auth import HTTPBasicAuth
 
 koha_items_url = "http://192.168.0.149:8080/api/v1/items"
 koha_biblio_url = "http://192.168.0.149:8080/api/v1/biblios"
-username = "Administrator"
-password = "Zxcqwe123$"
+username = ""
+password = ""
 
 # Fetch items
 response = requests.get(koha_items_url, auth=HTTPBasicAuth(username, password))
